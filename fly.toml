@@ -1,6 +1,6 @@
 # fly.toml file generated for directusfly on 2022-09-14T05:00:58Z
 
-app = "directusfly"
+app = "rafalanhi-cms"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
