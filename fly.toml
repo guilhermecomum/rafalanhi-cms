@@ -11,7 +11,7 @@ processes = []
   STORAGE_LOCATIONS = "local"
   STORAGE_LOCAL_DRIVER = "local"
   STORAGE_LOCAL_ROOT = "/data/uploads"
-  FLY_PRIMARY_REGION = "sea"
+  FLY_PRIMARY_REGION = "gru"
   PORT = 6055
 
 [experimental]
